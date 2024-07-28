@@ -14,8 +14,8 @@ public class Main  {
     JButton addBookBtn, delBookBtn, searchBookBtn;
 
     String url = "jdbc:mysql://localhost:3306/library";
-    String username = "root";
-    String password = "myROOTpass";
+    String username = "username";
+    String password = "password";
 
     public Main() {
         frame = new JFrame("Library Management System");
